@@ -47,7 +47,7 @@ const SingleService = () => {
           ) : (
             <div className="flex items-center justify-center">
               <h1 className="my-20 text-2xl font-bold font-montserrat">
-                No service by that name, select another
+                Service not found, select another
               </h1>
             </div>
           )}
